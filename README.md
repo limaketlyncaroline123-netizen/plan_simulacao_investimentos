@@ -57,3 +57,16 @@ taxa_mensal: taxa utilizada na projeção do patrimônio.
 🎨 Alterações em Relação à Ferramenta Original
 
 Foram realizadas alterações visuais na ferramenta original, incluindo a substituição do banner, a personalização das cores, a modificação dos gráficos e a reorganização do layout geral.
+
+---
+
+## 📷 Demonstração da Planilha
+
+### Perfil Moderado
+
+![Simulação com perfil moderado](./simulacao_moderado.png)
+
+### Perfil Agressivo
+
+![Simulação com perfil agressivo](./simulacao_agressivo.png)
+
